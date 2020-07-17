@@ -1,0 +1,14 @@
+body{
+    background-color:#111111;
+    color:white;
+}
+div{
+    display: grid;
+    place-items:center;
+}
+.show{
+    display:flex;
+}
+.show button{
+    margin-left:2rem;
+}
