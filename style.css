@@ -6,6 +6,9 @@ div{
     display: grid;
     place-items:center;
 }
+#root{
+    height:100vh;
+}
 .show{
     display:flex;
 }
